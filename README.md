@@ -1,2 +1,3 @@
 # CTProjcet
-Computational Thinking Project
+
+Make SwiftUI TipApps & Design SwiftUI View
